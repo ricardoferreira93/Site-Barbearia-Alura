@@ -1,3 +1,4 @@
 # Site-Barbearia-Alura
 
-https://ricardoferreira93.github.io/Site-Barbearia-Alura/contato.html
+
+<a href="https://ricardoferreira93.github.io/Site-Barbearia-Alura/contato.html" target="__blank"> Link do Projeto</a>
